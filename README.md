@@ -1,7 +1,38 @@
-<h1>Forkify</h1>
+# Forkify
 
-Forkify is a vanilla JavaScript application that interacts with the food2fork API to fetch and display recipe food data. 
-This app uses modern JavaScript tools, such as Webpack to bundle the modules, and Babel to convert ES6, ES7 and ES8 back to ES5. 
-The user can search for a specific recipe, and add ingredients to a shopping list or save to a favourites list via local storage. 
+This is a web application for beginner cooks and kitchen hobbyists to search and save their favorite recipes.
 
-This is currently being hosted on Netlify:
+## Built with
+- [React](https://reactjs.org/) - The JavaScript framework used
+- [Food2Fork API](https://www.food2fork.com/) - The API recipes are being called from
+- [ES6](https://www.w3schools.com/js/js_es6.asp) - MVC Programming structure
+- [CSS3](https://en.wikipedia.org/wiki/CSS) - Styling
+
+### Hosted with netlify
+
+[**FORKIFY**](https://5fb28f1c86dab3f58ab8be9a--frosty-lovelace-145715.netlify.app/)
+
+## Prerequisties
+Make sure you have npm installed.
+```bash
+npm install npm@latest -g
+```
+
+## Installing
+
+1. Clone the repo
+```python
+git clone https://github.com/SaxonJude/Forkify-Updated.git
+```
+2. Run npm install inside project root
+```python
+npm install
+```
+3. Run the script
+```python
+npm run start
+```
+4. Have fun!
+
+## Contributors
+- Saxon Du Plooy - [Portfolio](https://choosealicense.com/licenses/mit/)
